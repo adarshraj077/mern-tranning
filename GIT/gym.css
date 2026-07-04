@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(to left, rgba(185, 185, 31, 0.941) , rgb(237, 230, 194));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    color: burlywood;
+    background-color: antiquewhite;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 2px 10px rgba(0, 0, 0, 0.76);
+    border: 1px solid rgba(255, 255, 255, 0.511);
+
+}
+
+p {
+    color: azure;
+    background-color: rgb(79, 82, 84);
+    width: fit-content;
+    padding: 20px;
+    border-radius: 15px;
+    font-family:cursive;
+    font-size: 20px;
+    box-shadow: 5px 2px 10px rgba(0, 0, 0, 0.76);
+    border: 1px solid rgba(255, 255, 255, 0.511);
+}
+
+h2 {
+    background-color: burlywood;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.a  {
+    color: black;
+    background-color: rgba(0, 0, 0, 0.338);
+    box-shadow: 5px 2px 10px rgba(0, 0, 0, 0.76);
+    border: 1px solid rgba(255, 255, 255, 0.511);
+}
